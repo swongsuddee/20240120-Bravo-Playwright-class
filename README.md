@@ -1,7 +1,7 @@
 # 20240120-Bravo-Playwright-class
 
 ## Description
-This is a simple project for automate testing with Playwright in class "Bravo Playwright for beginner to intermedite" on 20-21 Jan 2024.<br>
+This is a simple project for automate testing with Playwright in class "**Bravo Playwright for beginner to intermedite**" on 20-21 Jan 2024.<br>
 The version of this code is just an example we explored in our class.<br>
 I will provide you with the new and clean code, along with comments, as soon as possible.
 
