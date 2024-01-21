@@ -52,4 +52,5 @@ npm install
   </li>
 </ul>
 <br>
-Enjoy coding 😉.
+Enjoy coding 😉.<br>
+Ref: <a href='https://github.com/swongsuddee/20240120-Bravo-Playwright-class/blob/main/Brovo%20-%20Playwright%20v2.pdf'>Bravo - Playwright for beginner to intermediate, v2</a>.
